@@ -56,7 +56,7 @@ propriedades:
 os livros.
 */
 function books(nome){
-    var obj = {
+    const obj = {
         'Harry Potter': {
             quantidadePaginas: 485,
             autora:'J.K Rowling',
